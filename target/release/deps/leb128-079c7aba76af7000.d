@@ -1,7 +1,0 @@
-/data4/wuyongyu/icp/hackthoon/hello/target/release/deps/libleb128-079c7aba76af7000.rmeta: /home/wuyongyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leb128-0.2.5/src/lib.rs
-
-/data4/wuyongyu/icp/hackthoon/hello/target/release/deps/libleb128-079c7aba76af7000.rlib: /home/wuyongyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leb128-0.2.5/src/lib.rs
-
-/data4/wuyongyu/icp/hackthoon/hello/target/release/deps/leb128-079c7aba76af7000.d: /home/wuyongyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leb128-0.2.5/src/lib.rs
-
-/home/wuyongyu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leb128-0.2.5/src/lib.rs:
