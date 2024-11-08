@@ -56,6 +56,9 @@ module.exports = {
   },
   resolve: {
     extensions: [".js", ".ts", ".jsx", ".tsx"],
+    alias: {
+      declarations: path.resolve(__dirname, "src", "declarations"), // 添加路径别名
+    },
     fallback: {
       assert: require.resolve("assert/"),
       buffer: require.resolve("buffer/"),

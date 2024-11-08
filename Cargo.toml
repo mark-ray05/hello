@@ -1,3 +1,5 @@
 [workspace]
-members = ["src/hello"]
+members = [
+    "src/hello3_backend"
+]
 resolver = "2"

@@ -1,11 +1,8 @@
 {
-  "__Candid_UI": {
-    "local": "a4tbr-q4aaa-aaaaa-qaafq-cai"
+  "hello3_backend": {
+    "local": "bd3sg-teaaa-aaaaa-qaaba-cai"
   },
-  "hello": {
-    "local": "asrmz-lmaaa-aaaaa-qaaeq-cai"
-  },
-  "hello_assets": {
-    "local": "a3shf-5eaaa-aaaaa-qaafa-cai"
+  "hello3_frontend": {
+    "local": "be2us-64aaa-aaaaa-qaabq-cai"
   }
 }
